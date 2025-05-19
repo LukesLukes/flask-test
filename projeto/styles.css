@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(to bottom, rgb(20, 102, 179), rgb(255, 247, 247));
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    color: #ffeeee;
+    padding: 0;
+    margin: 20px;
+}
+
+h1 {
+    color: #fffdfd;
+    text-align: center;
+}
+h2 {
+    color: #fffdfd;
+    text-align: center;
+}
+h3 {
+    color: #fffdfd;
+    text-align: center;
+}
+h4 {
+    color: #fffdfd;
+    text-align: center;
+}
+h5 {
+    color: #fffdfd;
+    text-align: center;
+}
+h6 {
+    color: #fffdfd;
+    text-align: center;
+}
+
+p {
+    color: #fffdfd;
+    text-align: center;
+}
+
+table tbody {
+    background-color: #fffdfd;
+    color: #3b29d8;
+    text-align: center;
+    padding: 0;
+    border: 0;
+    font-size: large;
+}
